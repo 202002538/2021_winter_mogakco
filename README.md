@@ -10,7 +10,7 @@
 
 🙋‍♂팀원 기록:
 - 이채연: https://github.com/202002538/2021_Mogakco_Code
-- 천세빈: hard-studying.tistory.com
+- 천세빈: https://hard-studying.tistory.com/
 - 이철희:
 - 윤지현: https://remark-i.tistory.com/
 
