@@ -14,7 +14,7 @@
 - Zoom 사용
 
 🙋‍♂팀원 기록:
-- 이채연: https://github.com/202002538/2021_Mogakco_Code
+- 이채연: https://blog.naver.com/PostList.naver?blogId=cosl1504&from=postList&categoryNo=6
 - 천세빈: https://hard-studying.tistory.com/
 - 이철희: https://cheolheelee.tistory.com/364
 - 윤지현: https://remark-i.tistory.com/
